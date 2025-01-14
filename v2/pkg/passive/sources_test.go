@@ -53,7 +53,7 @@ var (
 		// "threatminer",
 		// "reconcloud",
 		"builtwith",
-		"subdomaincenter",
+		"hudsonrock",
 	}
 
 	expectedDefaultSources = []string{
@@ -89,7 +89,6 @@ var (
 		// "threatminer",
 		// "reconcloud",
 		"builtwith",
-		"subdomaincenter",
 	}
 
 	expectedDefaultRecursiveSources = []string{
@@ -98,7 +97,6 @@ var (
 		"bufferover",
 		"certspotter",
 		"crtsh",
-		"dnsdumpster",
 		"dnsdb",
 		"digitorus",
 		"hackertarget",
